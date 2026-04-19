@@ -1,0 +1,54 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporários
+*.tmp
+*.bak
+*.log
+
+# Dados sensíveis — nunca commitar
+*.key
+*.pem
+*.p12
+secrets/
+credentials/
+*.env
+.env.*
+wallet.dat
+seed.txt
+*.wallet
+
+# Dados de investigação — nunca commitar
+cases/
+investigations/
+evidence/
+laudos/
+*.case
+
+# Python (se adicionar scripts de análise)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.egg-info/
+
+# Node (se adicionar scripts)
+node_modules/
+package-lock.json
+
+# Outputs de ferramentas
+*.csv
+*.xlsx
+*.pdf
+!docs/**/*.pdf
