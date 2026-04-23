@@ -31,6 +31,7 @@ Consulte o arquivo de referência adequado ao tema. Cada arquivo contém tabelas
 | Ferramentas CLI e open-source | `cli-open-source.md` |
 | Bases de endereços maliciosos e sanções | `bases-maliciosos.md` |
 | Ferramentas e fontes brasileiras | `brasil.md` |
+| IA Local e Privacidade na Investigação | `local-ai-privacy.md` |
 
 ## Regras de Uso
 

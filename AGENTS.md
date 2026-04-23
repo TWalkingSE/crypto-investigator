@@ -115,6 +115,10 @@ Este projeto possui skills especializados em `.github/skills/`. Use-os quando o 
 - `/investigation-report` — Gerar relatório investigativo padrão
 - `/on-chain-patterns` — Catálogo de padrões comportamentais on-chain
 - `/crypto-tools-kb` — Base de conhecimento de ferramentas OSINT e forenses
+- `/investigator-opsec` — Segurança Operacional (OpSec) para o investigador
+- `/case-management` — Gerenciamento e documentação contínua do caso (CASE_LOG)
+- `/hardware-wallet-forensics` — Apreensão física e extração de hardware wallets e seed phrases
+
 - `/roteiro-estudo` — Plano de estudo personalizado para investigadores
 
 ## Mensagem Final Padrão

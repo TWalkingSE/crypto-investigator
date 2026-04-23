@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![AGENTS.md](https://img.shields.io/badge/AGENTS.md-compatible-blue)
-![Agent Skills](https://img.shields.io/badge/Agent%20Skills-12-7c3aed)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-15-7c3aed)
 ![Knowledge Base](https://img.shields.io/badge/KB-10%20refer%C3%AAncias-0ea5e9)
 ![Idioma](https://img.shields.io/badge/Idioma-PT--BR-009c3b)
 
@@ -25,7 +25,7 @@ Ele não acessa blockchains diretamente — o valor está em **ensinar o investi
 
 ### O que está incluso
 
-- **12 agent skills** com instruções detalhadas para tarefas especializadas
+- **15 agent skills** com instruções detalhadas para tarefas especializadas
 - **Base de conhecimento** com 10 arquivos temáticos e 100+ ferramentas catalogadas
 - **60+ padrões comportamentais** on-chain documentados
 - **12 tipologias de golpe** em criptoativos com padrões investigativos
@@ -87,6 +87,10 @@ Para usar um skill específico, digite `/nome-do-skill` no chat:
 | `/investigation-report` | Template de relatório investigativo |
 | `/on-chain-patterns` | Catálogo de padrões comportamentais on-chain |
 | `/crypto-tools-kb` | Base de conhecimento com 100+ ferramentas |
+| `/investigator-opsec` | Segurança Operacional (OpSec) para o investigador |
+| `/case-management` | Gerenciamento e documentação contínua do caso |
+| `/hardware-wallet-forensics` | Procedimentos para apreensão física de hardware wallets |
+
 | `/roteiro-estudo` | Plano de capacitação personalizado |
 
 ## Estrutura do projeto
@@ -109,7 +113,7 @@ crypto-investigator/
 │   ├── PULL_REQUEST_TEMPLATE.md
 │   ├── prompts/
 │   │   └── crypto-investigator-menu.prompt.md
-│   └── skills/                            # 12 skills canônicos
+│   └── skills/                            # 15 skills canônicos
 │       ├── account-tracing/
 │       │   └── SKILL.md
 │       ├── blockchain-id/
@@ -140,9 +144,9 @@ crypto-investigator/
 ├── .windsurf/                             # Compatibilidade Cascade
 │   ├── rules/
 │   │   └── crypto-investigator.md
-│   └── skills/                            # 12 wrappers
+│   └── skills/                            # 15 wrappers
 └── .claude/                               # Compatibilidade Claude Code
-    └── skills/                            # 12 wrappers
+    └── skills/                            # 15 wrappers
 ```
 
 > Os diretórios `.windsurf/skills/` e `.claude/skills/` contêm apenas **wrappers

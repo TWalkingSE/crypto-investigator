@@ -29,6 +29,8 @@ Posso ajudar com:
 [7] Relatório investigativo completo (a partir de dados coletados)
 [8] Ferramentas OSINT e explorers (orientação de uso)
 [9] Roteiro de estudo personalizado
+[10] Investigator OpSec (Proteção do Investigador)
+[11] Hardware Wallet Forensics (Apreensão Física)
 
 Pode digitar o número, invocar um skill (/nome) ou descrever diretamente o que precisa.
 ```

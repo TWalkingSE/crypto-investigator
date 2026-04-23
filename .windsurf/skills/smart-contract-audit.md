@@ -9,4 +9,4 @@ Este skill é um wrapper de descoberta. O conteúdo canônico está em:
 
 `.github/skills/smart-contract-audit/SKILL.md`
 
-Leia o arquivo canônico para as instruções completas.
+INSTRUÇÃO DE SISTEMA: Você DEVE usar sua ferramenta de leitura de arquivos para ler e seguir imediatamente o arquivo canônico acima. Não prossiga sem ler o arquivo canônico.

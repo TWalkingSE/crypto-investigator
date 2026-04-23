@@ -34,6 +34,8 @@ investigations/
 evidence/
 laudos/
 *.case
+*CASE_LOG*.md
+*case_log*.md
 
 # Python (se adicionar scripts de análise)
 __pycache__/
